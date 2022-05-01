@@ -22,4 +22,7 @@
 <br>
 <br>
 
-![photo](https://github.com/Emanuel181/KillerMemory/blob/f917fae7347b6a1482703020fd8d3062693e6837/Capture.PNG)
+![photo](https://github.com/Emanuel181/Credit_Card_Validator/blob/6d05d83476833ce3a9f954add4f199c17a7a8582/Capture.PNG)
+<br>
+<br>
+![photo](https://github.com/Emanuel181/Credit_Card_Validator/blob/6d05d83476833ce3a9f954add4f199c17a7a8582/Capture2.PNG)
