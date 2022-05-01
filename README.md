@@ -18,6 +18,10 @@
 ## Remarks <img height="32" width="32" src = "https://user-images.githubusercontent.com/92999481/166147196-39d18eba-8dc3-45ec-b90d-7aba6c1790eb.png">
 - If you use **```PyCharm```** You may get an error saying **```No Python interpreter configured for this project```**, in this case, PyCharm may suggest you solution(s) for this issue, the problem is because the interpreter path is set for my computer, for other computers, the path is different so you will need to simply set the interpreter path accordingly to your computer. If you can't work out this, you can simply copy the code from **```main.py```** in a new project and you are good.
 
+<hr>
+<br>
+<br>
+
 ### Image - How it works
 <br>
 <br>
